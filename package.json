@@ -1,7 +1,7 @@
 {
   "name": "@cairnscale/uk-drcf-ai-governance-scorecard",
   "version": "1.0.0",
-  "description": "Zero-dependency 12-control readiness scorer mapped to UK DRCF agentic AI principles, UK GDPR / DUAA 2025, and EU AI Act Article 50 transparency obligations.",
+  "description": "Zero-dependency 12-control readiness scorer mapped to UK DRCF agentic AI guidance, UK GDPR / DUAA 2025, and EU AI Act Article 50 transparency rules.",
   "type": "module",
   "main": "./index.mjs",
   "bin": {
@@ -20,6 +20,13 @@
     "governance"
   ],
   "homepage": "https://cairnscale.uk/tools/ai-governance-scorecard/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cairnscale/uk-drcf-ai-governance-scorecard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cairnscale/uk-drcf-ai-governance-scorecard/issues"
+  },
   "author": "cairnscale <hello@cairnscale.uk>",
   "license": "MIT"
 }
